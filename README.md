@@ -38,16 +38,13 @@ This project allows users to add, delete, and view expenses by date or date rang
 
 expense-tracker-fastapi-streamlit/
 │
-├── backend.py # FastAPI application & API routes
+├── backend.py 
 ├── add_data.py # Business logic (CRUD operations)
 ├── connect_data.py # Database models & DB connection
 ├── ui.py # Streamlit frontend
 ├── expenses.db # SQLite database (auto-created)
 ├── requirements.txt
 └── README.md
-
-yaml
-Copy code
 
 ---
 
